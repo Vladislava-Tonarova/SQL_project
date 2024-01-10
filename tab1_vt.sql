@@ -1,3 +1,5 @@
+-- Discord: VlaďkaT.
+
 CREATE OR REPLACE TABLE t_Vladislava_tonarova_project_SQL_primary_final
 SELECT pri.price_year AS a_year, industry, avg_year_wage, foodstuff, avg_year_price, pri.price_unit
 FROM (
