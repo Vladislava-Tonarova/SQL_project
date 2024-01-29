@@ -1,3 +1,7 @@
+-- discord name Vlaďka T. vladka_02515
+
+
+
 CREATE OR REPLACE TABLE t_Vladislava_tonarova_project_SQL_primary_final
 SELECT 	
 	pri.price_year AS a_year, 
